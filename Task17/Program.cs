@@ -8,7 +8,7 @@ int DataEntryXY(string str)
 
 void FindQuadrant(int x, int y)
 {
-    if((x>0) && (y>0)) Console.WriteLine("Это первый квадрант.");
+    if(x>0 && y>0) Console.WriteLine("Это первый квадрант.");
     if((x<0) && (y>0)) Console.WriteLine("Это второй квадрант.");
     if((x<0) && (y<0)) Console.WriteLine("Это третий квадрант.");
     if((x>0) && (y<0)) Console.WriteLine("Это четвертый квадрант.");
