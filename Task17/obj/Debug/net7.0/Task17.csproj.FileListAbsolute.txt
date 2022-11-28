@@ -1,0 +1,15 @@
+C:\My_files\git\lesson_1018\Task17\bin\Debug\net7.0\Task17.exe
+C:\My_files\git\lesson_1018\Task17\bin\Debug\net7.0\Task17.deps.json
+C:\My_files\git\lesson_1018\Task17\bin\Debug\net7.0\Task17.runtimeconfig.json
+C:\My_files\git\lesson_1018\Task17\bin\Debug\net7.0\Task17.dll
+C:\My_files\git\lesson_1018\Task17\bin\Debug\net7.0\Task17.pdb
+C:\My_files\git\lesson_1018\Task17\obj\Debug\net7.0\Task17.csproj.AssemblyReference.cache
+C:\My_files\git\lesson_1018\Task17\obj\Debug\net7.0\Task17.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_files\git\lesson_1018\Task17\obj\Debug\net7.0\Task17.AssemblyInfoInputs.cache
+C:\My_files\git\lesson_1018\Task17\obj\Debug\net7.0\Task17.AssemblyInfo.cs
+C:\My_files\git\lesson_1018\Task17\obj\Debug\net7.0\Task17.csproj.CoreCompileInputs.cache
+C:\My_files\git\lesson_1018\Task17\obj\Debug\net7.0\Task17.dll
+C:\My_files\git\lesson_1018\Task17\obj\Debug\net7.0\refint\Task17.dll
+C:\My_files\git\lesson_1018\Task17\obj\Debug\net7.0\Task17.pdb
+C:\My_files\git\lesson_1018\Task17\obj\Debug\net7.0\Task17.genruntimeconfig.cache
+C:\My_files\git\lesson_1018\Task17\obj\Debug\net7.0\ref\Task17.dll
