@@ -1,0 +1,15 @@
+C:\My_files\git\lesson_1018\Tas21.1\bin\Debug\net7.0\Tas21.1.exe
+C:\My_files\git\lesson_1018\Tas21.1\bin\Debug\net7.0\Tas21.1.deps.json
+C:\My_files\git\lesson_1018\Tas21.1\bin\Debug\net7.0\Tas21.1.runtimeconfig.json
+C:\My_files\git\lesson_1018\Tas21.1\bin\Debug\net7.0\Tas21.1.dll
+C:\My_files\git\lesson_1018\Tas21.1\bin\Debug\net7.0\Tas21.1.pdb
+C:\My_files\git\lesson_1018\Tas21.1\obj\Debug\net7.0\Tas21.1.csproj.AssemblyReference.cache
+C:\My_files\git\lesson_1018\Tas21.1\obj\Debug\net7.0\Tas21.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_files\git\lesson_1018\Tas21.1\obj\Debug\net7.0\Tas21.1.AssemblyInfoInputs.cache
+C:\My_files\git\lesson_1018\Tas21.1\obj\Debug\net7.0\Tas21.1.AssemblyInfo.cs
+C:\My_files\git\lesson_1018\Tas21.1\obj\Debug\net7.0\Tas21.1.csproj.CoreCompileInputs.cache
+C:\My_files\git\lesson_1018\Tas21.1\obj\Debug\net7.0\Tas21.1.dll
+C:\My_files\git\lesson_1018\Tas21.1\obj\Debug\net7.0\refint\Tas21.1.dll
+C:\My_files\git\lesson_1018\Tas21.1\obj\Debug\net7.0\Tas21.1.pdb
+C:\My_files\git\lesson_1018\Tas21.1\obj\Debug\net7.0\Tas21.1.genruntimeconfig.cache
+C:\My_files\git\lesson_1018\Tas21.1\obj\Debug\net7.0\ref\Tas21.1.dll
