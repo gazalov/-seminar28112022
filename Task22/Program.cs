@@ -14,7 +14,7 @@ int DataEntryXY(string str)
 void Calc(int num)
 {
     int inter = 1;
-    while(inter <= num)
+    while (inter <= num)
     {
         Console.WriteLine(inter * inter);
         inter++;
